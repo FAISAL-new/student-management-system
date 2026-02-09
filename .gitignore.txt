@@ -1,0 +1,13 @@
+# Ignore python temporary files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you have one)
+venv/
+env/
+.env
+
+# Ignore ngrok files (IMPORTANT)
+ngrok.yml
+ngrok.exe
+*.log
