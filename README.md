@@ -1,9 +1,9 @@
-Install Dependencies
+step 1 : Install Dependencies
 
-Run the Application
+step 2 : Run the Application
 
-Open in Browser
+step 3 : Open in Browser
 
-Go to: http://127.0.0.1:5000
+step 4 : Go to: http://127.0.0.1:5000
 
 Created by Faisal Farooq | DevOps Intern
